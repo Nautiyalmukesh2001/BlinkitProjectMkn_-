@@ -166,7 +166,7 @@ This Power BI dashboard empowers Blinkit stakeholders with a strategic view of o
 
 ---
 
-## 📸 [Sample Dashboard Preview](https://github.com/Nautiyalmukesh2001/BlinkitProjectMkn_-/blob/main/Screenshot%202025-05-21%20155726.png)  
+## 📸 [Sample Dashboard Preview](https://github.com/Nautiyalmukesh2001/BlinkitProjectMkn_-/blob/main/Screenshot%202025-05-21%20180956.png)  
 
 
 ---
