@@ -26,7 +26,7 @@ To assess and optimize Blinkit’s retail and inventory strategies by analyzing:
 5. 📐 **DAX Calculations**  
    - Calculated columns and measures for all KPIs  
 6. 🎨 **Dashboard Layout & Charting**  
-   - Developing, formatting, and organizing visuals  
+   - Developing, formatting, tooltip, drill through and organizing visuals  
 7. 🧠 **Insight Generation**  
    - Deriving actionable business conclusions  
 
@@ -53,6 +53,19 @@ To assess and optimize Blinkit’s retail and inventory strategies by analyzing:
 | Sales by Outlet Size               | Donut Chart      | Analyze how outlet size impacts total sales                               |
 | Sales by Outlet Location           | Funnel Chart     | Compare geographic sales distribution                                     |
 | Metrics by Outlet Type             | Matrix           | Display all KPIs across different outlet types                            |
+
+---
+
+## 🧠 Key Interactivity Features
+
+### 🧩 Tooltips
+- **Tier-Level Tooltip:** Hovering over a **city tier** shows the **items sold in that tier**.
+- **Item-Level Tooltip:** Hovering over an **item** shows which **markets** it was sold in.
+
+### 🔍 Drillthrough
+- **Product Drillthrough:** Right-clicking on a product enables **drillthrough to detailed item-level data**, offering insights into sales, rating, and no of items.
+
+> These features enhance the analytical depth and enable on-the-fly exploration without cluttering the main dashboard.
 
 ---
 
